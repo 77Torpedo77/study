@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="第 1 页" id="YTN5t03ZE7oSlvA83yzv">
-    <mxGraphModel dx="951" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3tO1dww3Jabi91UzTI4P-1" value="鲁&lt;div&gt;棒&lt;/div&gt;&lt;div&gt;多&lt;/div&gt;&lt;div&gt;目&lt;/div&gt;&lt;div&gt;视&lt;/div&gt;&lt;div&gt;觉&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;M&lt;/div&gt;&lt;div&gt;算&lt;/div&gt;&lt;div&gt;法&lt;/div&gt;&lt;div&gt;研&lt;/div&gt;&lt;div&gt;究&lt;/div&gt;" style="rounded=0;html=1;align=center;horizontal=1;fontFamily=Times New Roman;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="90" y="220" width="50" height="520" as="geometry" />
+        <mxCell id="3tO1dww3Jabi91UzTI4P-1" value="鲁&lt;div&gt;棒&lt;/div&gt;&lt;div&gt;多&lt;/div&gt;&lt;div&gt;目&lt;/div&gt;&lt;div&gt;视&lt;/div&gt;&lt;div&gt;觉&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;M&lt;/div&gt;&lt;div&gt;算&lt;/div&gt;&lt;div&gt;法&lt;/div&gt;&lt;div&gt;研&lt;/div&gt;&lt;div&gt;究&lt;/div&gt;" style="rounded=0;html=1;align=center;horizontal=1;fontFamily=Times New Roman;verticalAlign=middle;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="50" height="660" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="3tO1dww3Jabi91UzTI4P-1" target="3tO1dww3Jabi91UzTI4P-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-3" value="基于深度学习的算法初始化方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="3tO1dww3Jabi91UzTI4P-1" parent="1" target="3tO1dww3Jabi91UzTI4P-9">
           <mxGeometry relative="1" as="geometry">
@@ -19,22 +19,116 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-9" value="关键帧挑选方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="3tO1dww3Jabi91UzTI4P-1" target="3tO1dww3Jabi91UzTI4P-10">
+        <mxCell id="3tO1dww3Jabi91UzTI4P-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="3tO1dww3Jabi91UzTI4P-1" target="3tO1dww3Jabi91UzTI4P-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-10" value="多目联合优化算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-12" value="Transformer神经网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="300" width="120" height="30" as="geometry" />
+        <mxCell id="3tO1dww3Jabi91UzTI4P-16" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="350" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="140" width="50" height="100" as="geometry" />
+        <mxCell id="3tO1dww3Jabi91UzTI4P-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tO1dww3Jabi91UzTI4P-16" source="3tO1dww3Jabi91UzTI4P-12" target="3tO1dww3Jabi91UzTI4P-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-14" value="位姿与深度初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="360" width="120" height="30" as="geometry" />
+        <mxCell id="3tO1dww3Jabi91UzTI4P-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tO1dww3Jabi91UzTI4P-16" source="3tO1dww3Jabi91UzTI4P-12" target="3tO1dww3Jabi91UzTI4P-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tO1dww3Jabi91UzTI4P-16" source="3tO1dww3Jabi91UzTI4P-12" target="3tO1dww3Jabi91UzTI4P-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-12" value="Transformer神经网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-16">
+          <mxGeometry x="30" y="25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-14" value="位姿与深度初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-16">
+          <mxGeometry x="30" y="85" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-27" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-16">
+          <mxGeometry x="230" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-39" value="" style="swimlane;startSize=0;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=0;containerType=tree;fontSize=12;flipH=0;flipV=0;fontFamily=Times New Roman;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="910" width="550" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-40" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;鲁&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;棒&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;多&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;目&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;视&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;觉&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;S&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;L&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;A&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;M&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;算&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;法&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;研&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;究&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="20" y="20" width="60" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-41" value="基于深度学习的算法初始化方法" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="130" y="345.19999999999993" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="3tO1dww3Jabi91UzTI4P-39" source="3tO1dww3Jabi91UzTI4P-40" target="3tO1dww3Jabi91UzTI4P-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-43" value="关键帧挑选方法" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="130" y="482.79999999999995" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-44" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="3tO1dww3Jabi91UzTI4P-39" source="3tO1dww3Jabi91UzTI4P-40" target="3tO1dww3Jabi91UzTI4P-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-46" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="3tO1dww3Jabi91UzTI4P-47" source="3tO1dww3Jabi91UzTI4P-40" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="1440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-47" value="多目联合优化算法" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="130" y="594.8" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-70" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="3tO1dww3Jabi91UzTI4P-71" source="3tO1dww3Jabi91UzTI4P-47" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-71" value="多目联合优化算法" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="280" y="554.8" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-72" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="3tO1dww3Jabi91UzTI4P-73" source="3tO1dww3Jabi91UzTI4P-47" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-73" value="多目联合优化算法" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="280" y="634.8" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-74" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="3tO1dww3Jabi91UzTI4P-75" source="3tO1dww3Jabi91UzTI4P-41" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-75" value="Transformer神经网络" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="280" y="273.19999999999993" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-76" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="3tO1dww3Jabi91UzTI4P-77" source="3tO1dww3Jabi91UzTI4P-41" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1304" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-77" value="位姿与深度初始化" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="280" y="417.19999999999993" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-78" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="3tO1dww3Jabi91UzTI4P-79" source="3tO1dww3Jabi91UzTI4P-75" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1288" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-79" value="特征点提取" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="430" y="193.19999999999993" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-80" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="3tO1dww3Jabi91UzTI4P-81" source="3tO1dww3Jabi91UzTI4P-75" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="1248" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-81" value="特征点匹配&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="430" y="273.19999999999993" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-82" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="3tO1dww3Jabi91UzTI4P-83" source="3tO1dww3Jabi91UzTI4P-75" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="1226" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tO1dww3Jabi91UzTI4P-83" value="Transformer神经网络" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="430" y="353.19999999999993" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
