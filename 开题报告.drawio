@@ -1,53 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1" pages="2">
   <diagram name="第 1 页" id="YTN5t03ZE7oSlvA83yzv">
     <mxGraphModel dx="1379" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3tO1dww3Jabi91UzTI4P-1" value="鲁&lt;div&gt;棒&lt;/div&gt;&lt;div&gt;多&lt;/div&gt;&lt;div&gt;目&lt;/div&gt;&lt;div&gt;视&lt;/div&gt;&lt;div&gt;觉&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;M&lt;/div&gt;&lt;div&gt;算&lt;/div&gt;&lt;div&gt;法&lt;/div&gt;&lt;div&gt;研&lt;/div&gt;&lt;div&gt;究&lt;/div&gt;" style="rounded=0;html=1;align=center;horizontal=1;fontFamily=Times New Roman;verticalAlign=middle;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="90" y="80" width="50" height="660" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="3tO1dww3Jabi91UzTI4P-1" target="3tO1dww3Jabi91UzTI4P-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-3" value="基于深度学习的算法初始化方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="215" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="3tO1dww3Jabi91UzTI4P-1" parent="1" target="3tO1dww3Jabi91UzTI4P-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="480" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-9" value="关键帧挑选方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="3tO1dww3Jabi91UzTI4P-1" target="3tO1dww3Jabi91UzTI4P-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-10" value="多目联合优化算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-16" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="140" width="350" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tO1dww3Jabi91UzTI4P-16" source="3tO1dww3Jabi91UzTI4P-12" target="3tO1dww3Jabi91UzTI4P-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tO1dww3Jabi91UzTI4P-16" source="3tO1dww3Jabi91UzTI4P-12" target="3tO1dww3Jabi91UzTI4P-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tO1dww3Jabi91UzTI4P-16" source="3tO1dww3Jabi91UzTI4P-12" target="3tO1dww3Jabi91UzTI4P-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-12" value="Transformer神经网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-16">
-          <mxGeometry x="30" y="25" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-14" value="位姿与深度初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-16">
-          <mxGeometry x="30" y="85" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-27" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-16">
-          <mxGeometry x="230" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-39" value="" style="swimlane;startSize=0;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=0;containerType=tree;fontSize=12;flipH=0;flipV=0;fontFamily=Times New Roman;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="910" width="420" height="980" as="geometry" />
         </mxCell>
@@ -130,7 +86,59 @@
         <mxCell id="3tO1dww3Jabi91UzTI4P-89" value="多目关键帧的创建与移除" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
           <mxGeometry x="300" y="523.264375" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-91" value="&lt;p&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;基于投票的方式，cam1需要新建关键帧就举手并等待，当需要新建关键帧的cam数量超过阈值，统一新建关键帧。（存疑，若举手后长时间没有新建，则该cam跟踪已然失败）&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="75oeJG5EG2bcpLaRuao6" name="第 2 页">
+    <mxGraphModel dx="1379" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-1" value="鲁&lt;div&gt;棒&lt;/div&gt;&lt;div&gt;多&lt;/div&gt;&lt;div&gt;目&lt;/div&gt;&lt;div&gt;视&lt;/div&gt;&lt;div&gt;觉&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;M&lt;/div&gt;&lt;div&gt;算&lt;/div&gt;&lt;div&gt;法&lt;/div&gt;&lt;div&gt;研&lt;/div&gt;&lt;div&gt;究&lt;/div&gt;" style="rounded=0;html=1;align=center;horizontal=1;fontFamily=Times New Roman;verticalAlign=middle;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="50" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="cgobgHSFIdvSH6OUYrM0-1" target="cgobgHSFIdvSH6OUYrM0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-3" value="基于深度学习的算法初始化方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cgobgHSFIdvSH6OUYrM0-1" target="cgobgHSFIdvSH6OUYrM0-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-5" value="关键帧挑选方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="cgobgHSFIdvSH6OUYrM0-1" target="cgobgHSFIdvSH6OUYrM0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-7" value="多目联合优化算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cgobgHSFIdvSH6OUYrM0-8" source="cgobgHSFIdvSH6OUYrM0-12" target="cgobgHSFIdvSH6OUYrM0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cgobgHSFIdvSH6OUYrM0-8" source="cgobgHSFIdvSH6OUYrM0-12" target="cgobgHSFIdvSH6OUYrM0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cgobgHSFIdvSH6OUYrM0-8" source="cgobgHSFIdvSH6OUYrM0-12" target="cgobgHSFIdvSH6OUYrM0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-12" value="Transformer神经网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cgobgHSFIdvSH6OUYrM0-8">
+          <mxGeometry x="30" y="25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-13" value="位姿与深度初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cgobgHSFIdvSH6OUYrM0-8">
+          <mxGeometry x="30" y="85" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cgobgHSFIdvSH6OUYrM0-14" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="cgobgHSFIdvSH6OUYrM0-8">
+          <mxGeometry x="230" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aePe4i4DS_q7KB96RT9s-1" value="&lt;p&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;基于投票的方式，cam1需要新建关键帧就举手并等待，当需要新建关键帧的cam数量超过阈值，统一新建关键帧。（存疑，若举手后长时间没有新建，则该cam跟踪已然失败）&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="820" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
