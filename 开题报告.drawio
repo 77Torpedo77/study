@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1" pages="2">
   <diagram name="第 1 页" id="YTN5t03ZE7oSlvA83yzv">
-    <mxGraphModel dx="1379" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3tO1dww3Jabi91UzTI4P-39" value="" style="swimlane;startSize=0;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=0;containerType=tree;fontSize=12;flipH=0;flipV=0;fontFamily=Times New Roman;align=center;" vertex="1" parent="1">
-          <mxGeometry x="110" y="910" width="420" height="690" as="geometry" />
+        <mxCell id="3tO1dww3Jabi91UzTI4P-39" value="" style="swimlane;startSize=0;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=0;containerType=tree;fontSize=12;flipH=0;flipV=0;fontFamily=Times New Roman;align=center;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="180" width="540" height="690" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-40" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;鲁&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;棒&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;多&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;目&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;视&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;觉&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;S&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;L&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;A&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;M&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;算&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;法&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;研&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;究&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
           <mxGeometry x="20" y="20" width="60" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-41" value="基于深度学习的算法初始化方法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
-          <mxGeometry x="130" y="133.96750000000003" width="120" height="56" as="geometry" />
+        <mxCell id="3tO1dww3Jabi91UzTI4P-41" value="弱纹理环境下的算法初始化方法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="130" y="137.875" width="120" height="56" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="3tO1dww3Jabi91UzTI4P-39" source="3tO1dww3Jabi91UzTI4P-40" target="3tO1dww3Jabi91UzTI4P-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-43" value="多目系统下的滑动窗口管理方法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
-          <mxGeometry x="130" y="334.77750000000003" width="120" height="54.38" as="geometry" />
+          <mxGeometry x="130" y="338.685" width="120" height="54.38" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-44" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="3tO1dww3Jabi91UzTI4P-39" source="3tO1dww3Jabi91UzTI4P-40" target="3tO1dww3Jabi91UzTI4P-43">
           <mxGeometry relative="1" as="geometry" />
@@ -28,15 +28,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-47" value="多目联合优化算法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
-          <mxGeometry x="130" y="503.5325" width="120" height="52.5" as="geometry" />
+          <mxGeometry x="130" y="499.625" width="120" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-70" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=15;arcSize=12;" edge="1" target="3tO1dww3Jabi91UzTI4P-71" source="3tO1dww3Jabi91UzTI4P-47" parent="3tO1dww3Jabi91UzTI4P-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="1110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-71" value="多目观测模型" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
-          <mxGeometry x="300" y="461.96750000000003" width="100" height="40" as="geometry" />
+        <mxCell id="3tO1dww3Jabi91UzTI4P-71" value="多目几何约束模型" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="300" y="465.875" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-72" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=15;arcSize=12;" edge="1" target="3tO1dww3Jabi91UzTI4P-73" source="3tO1dww3Jabi91UzTI4P-47" parent="3tO1dww3Jabi91UzTI4P-39">
           <mxGeometry relative="1" as="geometry">
@@ -44,23 +44,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-73" value="基于最小二乘的位姿优化算法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
-          <mxGeometry x="300" y="541.9675" width="100" height="55.63" as="geometry" />
+          <mxGeometry x="300" y="545.875" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-74" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=15;arcSize=12;" edge="1" target="3tO1dww3Jabi91UzTI4P-75" source="3tO1dww3Jabi91UzTI4P-41" parent="3tO1dww3Jabi91UzTI4P-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="1110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-75" value="Transformer神经网络" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
-          <mxGeometry x="300" y="61.96750000000003" width="100" height="40" as="geometry" />
+        <mxCell id="3tO1dww3Jabi91UzTI4P-75" value="基于深度学习的特征提取与匹配" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="300" y="65.875" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-76" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=15;arcSize=12;" edge="1" target="3tO1dww3Jabi91UzTI4P-77" source="3tO1dww3Jabi91UzTI4P-41" parent="3tO1dww3Jabi91UzTI4P-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="1014" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3tO1dww3Jabi91UzTI4P-77" value="不确定性计算" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
-          <mxGeometry x="300" y="141.96750000000003" width="100" height="40" as="geometry" />
+        <mxCell id="3tO1dww3Jabi91UzTI4P-77" value="匹配不确定性计算" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
+          <mxGeometry x="300" y="145.875" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-84" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=15;arcSize=12;" edge="1" target="3tO1dww3Jabi91UzTI4P-85" source="3tO1dww3Jabi91UzTI4P-41" parent="3tO1dww3Jabi91UzTI4P-39">
           <mxGeometry relative="1" as="geometry">
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-85" value="位姿与深度初始化" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
-          <mxGeometry x="300" y="221.96750000000003" width="100" height="40" as="geometry" />
+          <mxGeometry x="300" y="225.875" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-86" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=15;arcSize=12;" edge="1" target="3tO1dww3Jabi91UzTI4P-87" source="3tO1dww3Jabi91UzTI4P-43" parent="3tO1dww3Jabi91UzTI4P-39">
           <mxGeometry relative="1" as="geometry">
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-87" value="多目关键帧时间同步" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
-          <mxGeometry x="300" y="301.96750000000003" width="100" height="40" as="geometry" />
+          <mxGeometry x="300" y="305.875" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-88" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=15;arcSize=12;" edge="1" target="3tO1dww3Jabi91UzTI4P-89" source="3tO1dww3Jabi91UzTI4P-43" parent="3tO1dww3Jabi91UzTI4P-39">
           <mxGeometry relative="1" as="geometry">
@@ -84,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3tO1dww3Jabi91UzTI4P-89" value="多目关键帧的创建与移除" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="3tO1dww3Jabi91UzTI4P-39">
-          <mxGeometry x="300" y="381.96750000000003" width="100" height="40" as="geometry" />
+          <mxGeometry x="300" y="385.875" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
