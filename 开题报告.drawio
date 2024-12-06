@@ -242,6 +242,117 @@
         <mxCell id="kwvf52nep1oP55S_Blop-25" value="多目SLAM系统" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-170" y="-340" width="1110" height="400" as="geometry" />
         </mxCell>
+        <mxCell id="Zn-r3TZO5wV7LT-Ho2N7-6" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="121" y="230" width="589" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-1" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;鲁&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;棒&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;多&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;目&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;视&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;觉&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;S&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;L&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;A&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;M&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;算&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;法&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;研&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;究&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Zn-r3TZO5wV7LT-Ho2N7-6">
+          <mxGeometry width="60" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zn-r3TZO5wV7LT-Ho2N7-6" source="9Nute7Mbl_yVDzAWeYoQ-31" target="9Nute7Mbl_yVDzAWeYoQ-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="529" y="175" />
+              <mxPoint x="529" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zn-r3TZO5wV7LT-Ho2N7-6" source="9Nute7Mbl_yVDzAWeYoQ-31" target="9Nute7Mbl_yVDzAWeYoQ-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="529" y="175" />
+              <mxPoint x="529" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-56" value="提供准确的初值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="9Nute7Mbl_yVDzAWeYoQ-55">
+          <mxGeometry x="-0.4159" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-31" value="&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;弱纹理环境下的算法初始化方法&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Zn-r3TZO5wV7LT-Ho2N7-6">
+          <mxGeometry x="149" y="50" width="340" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-32" value="位姿与深度初始化" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9Nute7Mbl_yVDzAWeYoQ-31">
+          <mxGeometry x="25" y="190.005" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9Nute7Mbl_yVDzAWeYoQ-31" source="9Nute7Mbl_yVDzAWeYoQ-35" target="9Nute7Mbl_yVDzAWeYoQ-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="115" />
+              <mxPoint x="290" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-34" value="前提条件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9Nute7Mbl_yVDzAWeYoQ-33">
+          <mxGeometry x="-0.12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-35" value="" style="swimlane;whiteSpace=wrap;html=1;strokeColor=default;startSize=0;dashed=1;strokeWidth=3;" vertex="1" parent="9Nute7Mbl_yVDzAWeYoQ-31">
+          <mxGeometry x="10" y="59.99" width="250" height="110.01" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-36" value="不确定性计算" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9Nute7Mbl_yVDzAWeYoQ-35">
+          <mxGeometry x="15" y="59.99499999999999" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-37" value="基于深度学习的特征提取与匹配" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9Nute7Mbl_yVDzAWeYoQ-35">
+          <mxGeometry x="15" y="10.004999999999995" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zn-r3TZO5wV7LT-Ho2N7-6" source="9Nute7Mbl_yVDzAWeYoQ-40" target="9Nute7Mbl_yVDzAWeYoQ-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="450" />
+              <mxPoint x="129" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-60" value="提供同步的关键帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="9Nute7Mbl_yVDzAWeYoQ-59">
+          <mxGeometry x="0.0848" y="-1" relative="1" as="geometry">
+            <mxPoint x="31" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-40" value="&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;多目系统下的关键帧管理方法&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Zn-r3TZO5wV7LT-Ho2N7-6">
+          <mxGeometry x="150" y="355" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-43" value="" style="swimlane;whiteSpace=wrap;html=1;strokeColor=default;startSize=0;dashed=1;strokeWidth=3;" vertex="1" parent="9Nute7Mbl_yVDzAWeYoQ-40">
+          <mxGeometry x="6.5" y="50" width="255" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-41" value="多目关键帧时间同步" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9Nute7Mbl_yVDzAWeYoQ-43">
+          <mxGeometry x="20" y="14.99499999999999" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-42" value="多目关键帧的创建与移除" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9Nute7Mbl_yVDzAWeYoQ-43">
+          <mxGeometry x="20" y="65.00500000000001" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-44" value="&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;多目联合优化算法&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Zn-r3TZO5wV7LT-Ho2N7-6">
+          <mxGeometry x="150" y="600" width="340" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9Nute7Mbl_yVDzAWeYoQ-44" source="9Nute7Mbl_yVDzAWeYoQ-47" target="9Nute7Mbl_yVDzAWeYoQ-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="90" />
+              <mxPoint x="280" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-46" value="理论支持" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9Nute7Mbl_yVDzAWeYoQ-45">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-47" value="多目几何约束模型" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9Nute7Mbl_yVDzAWeYoQ-44">
+          <mxGeometry x="25" y="69.99499999999999" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-48" value="基于最小二乘的位姿优化算法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9Nute7Mbl_yVDzAWeYoQ-44">
+          <mxGeometry x="25" y="119.99499999999999" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-61" value="提高鲁棒性与精度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Zn-r3TZO5wV7LT-Ho2N7-6">
+          <mxGeometry x="79" y="110" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-62" value="保证实时性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Zn-r3TZO5wV7LT-Ho2N7-6">
+          <mxGeometry x="78" y="405" width="21" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nute7Mbl_yVDzAWeYoQ-63" value="提高精度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Zn-r3TZO5wV7LT-Ho2N7-6">
+          <mxGeometry x="79" y="650" width="20" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
