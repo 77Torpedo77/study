@@ -444,7 +444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FIpwaZzHZuXDiXuSS-mL" name="第 5 页">
-    <mxGraphModel dx="2206" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1976" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -486,6 +486,54 @@
         </mxCell>
         <mxCell id="h6aKxe2GTQvURxm6ovY0-5" value="&lt;div&gt;2. 对于第 \( k \) 次迭代，在高斯牛顿法的基础上加上信赖区域，求解：&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;$$\min_{\Delta x_k} \frac{1}{2}\left\| f(x_k) + J(x_k)^T \Delta x_k \right\|^2, s.t.&amp;nbsp; \left\| D \Delta x_k \right\|^2 \leqslant \mu,$$&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;其中，\( \mu \) 是信赖区域的半径，\( D \) 为\(J^TJ\)的对角元素平方根。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-610" y="425" width="820" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-10" value="跟踪恢复算法" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="870" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-11" value="1. 若检测到跟踪失败，记录跟踪失败时间\(T_f\)，清空滑动窗口" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-10">
+          <mxGeometry y="30" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-12" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;2. 寻找距离&lt;span style=&quot;background-color: initial;&quot;&gt;\(t_f\)最近的同步关键帧，使用正常相机\( j \)的位姿计算此相机\( i \)的位姿初值\( P_{i,init} \):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;$$ P_{i,init} =&amp;nbsp; T_{i}^{-1}&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;*&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;T_j&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* P_{j,t_f}$$&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-10">
+          <mxGeometry y="60" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-13" value="&lt;div&gt;3. 计算\( \rho = \frac{f(x + \Delta x) - f(x)}{\mathbf{J}(x)^{\top} \Delta x} \)。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-10">
+          <mxGeometry y="180" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-14" value="&lt;div&gt;4. 若 \( \rho &amp;gt; \frac{3}{4} \)，则设置 \( \mu = 2 \)。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-10">
+          <mxGeometry y="220" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-15" value="&lt;div&gt;5. 若 \( \rho &amp;lt; \frac{1}{4} \)，则设置 \( \mu = 0.5\mu \)。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-10">
+          <mxGeometry y="260" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-16" value="&lt;div&gt;&lt;div&gt;6. 如果 \( \rho \) 大于某阈值，则认为近似可行。令 \( x_{k+1} = x_k + \Delta x_k \)。&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-10">
+          <mxGeometry y="300" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-17" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;7. 判断算法是否收敛。如不收敛则返回第2步，否则结束。&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-10">
+          <mxGeometry y="340" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-18" value="跟踪恢复算法" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="870" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-19" value="1. 若检测到跟踪失败，记录跟踪失败时间\(t_f\)，清空滑动窗口" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-18">
+          <mxGeometry y="30" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-20" value="&lt;div style=&quot;&quot;&gt;2. 寻找距离&lt;span style=&quot;background-color: initial;&quot;&gt;\(t_f\)最近的同步关键帧，使用正常相机\( j \)的位姿计算此相机\( i \)的位姿初值\( P_{i,init} \):&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;$$ P_{i,init} =&amp;nbsp; T_{i}^{-1}&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;*&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;T_j&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* P_{j,t_f}$$&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-18">
+          <mxGeometry y="60" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-21" value="，重新初始化此相机跟踪，记录初始化成功时间\( T_s \)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-18">
+          <mxGeometry y="180" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-22" value="&lt;div&gt;4. 若 \( \rho &amp;gt; \frac{3}{4} \)，则设置 \( \mu = 2 \)。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-18">
+          <mxGeometry y="220" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-23" value="&lt;div&gt;5. 若 \( \rho &amp;lt; \frac{1}{4} \)，则设置 \( \mu = 0.5\mu \)。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-18">
+          <mxGeometry y="260" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-24" value="&lt;div&gt;&lt;div&gt;6. 如果 \( \rho \) 大于某阈值，则认为近似可行。令 \( x_{k+1} = x_k + \Delta x_k \)。&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-18">
+          <mxGeometry y="300" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h6aKxe2GTQvURxm6ovY0-25" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;7. 判断算法是否收敛。如不收敛则返回第2步，否则结束。&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6aKxe2GTQvURxm6ovY0-18">
+          <mxGeometry y="340" width="480" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
