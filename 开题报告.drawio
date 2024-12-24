@@ -145,7 +145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EhqzCUgiCgQA78sg4XNW" name="第 3 页">
-    <mxGraphModel dx="2797" dy="2300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -413,7 +413,7 @@
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-37" value="多目联合优化" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-27">
           <mxGeometry x="155" y="872.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-39" value="&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;弱纹理环境下的算法初始化方法&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-27">
+        <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-39" value="&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;弱纹理环境中SLAM算法初始化&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-27">
           <mxGeometry x="340" y="130" width="420" height="245" as="geometry" />
         </mxCell>
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-40" value="位姿与深度初始化" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-39">
@@ -435,19 +435,19 @@
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-43" value="" style="swimlane;whiteSpace=wrap;html=1;strokeColor=default;startSize=0;dashed=1;strokeWidth=3;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-39">
           <mxGeometry x="10" y="59.99" width="250" height="110.01" as="geometry" />
         </mxCell>
-        <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-44" value="不确定性计算" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-43">
+        <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-44" value="基于图像匹配的不确定性计算" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-43">
           <mxGeometry x="15" y="59.99499999999999" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-45" value="基于深度学习的特征提取与匹配" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-43">
           <mxGeometry x="15" y="10.004999999999995" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-46" value="&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;基于多目视觉SLAM的关键帧管理方法&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-27">
-          <mxGeometry x="340" y="477.5" width="260" height="190" as="geometry" />
+          <mxGeometry x="340" y="477.5" width="270" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-47" value="多目关键帧时间同步" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-46">
+        <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-47" value="多目系统图像对齐" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-46">
           <mxGeometry x="20" y="112.505" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-48" value="关键帧的创建" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-46">
+        <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-48" value="多目系统关键帧的创建" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-46">
           <mxGeometry x="20" y="52.50500000000001" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-57" value="&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;基于几何约束的多目视觉SLAM的位姿联合优化算法&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-27">
@@ -456,8 +456,8 @@
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3oT0GwSSZEhkQ6cTQ8xi-57" source="3oT0GwSSZEhkQ6cTQ8xi-60" target="3oT0GwSSZEhkQ6cTQ8xi-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="90" />
-              <mxPoint x="290" y="175" />
+              <mxPoint x="310" y="90" />
+              <mxPoint x="310" y="175" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -467,16 +467,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-60" value="多目几何约束模型" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-57">
-          <mxGeometry x="25" y="70.005" width="220" height="40" as="geometry" />
+          <mxGeometry x="25" y="70.01" width="245" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-64" value="" style="swimlane;whiteSpace=wrap;html=1;strokeColor=default;startSize=0;dashed=1;strokeWidth=3;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-57">
-          <mxGeometry x="10" y="119.98999999999978" width="250" height="110.01" as="geometry" />
+          <mxGeometry x="10" y="119.99" width="270" height="110.01" as="geometry" />
         </mxCell>
-        <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-61" value="基于最小二乘的位姿优化算法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-64">
-          <mxGeometry x="15.5" y="10.005000000000223" width="220" height="40" as="geometry" />
+        <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-61" value="基于几何约束的非线性位姿优化算法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-64">
+          <mxGeometry x="15.5" y="10.01" width="244.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-62" value="多目视觉系统跟踪恢复方法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-64">
-          <mxGeometry x="15" y="60.0150000000001" width="220" height="40" as="geometry" />
+          <mxGeometry x="15" y="60.02" width="245" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3oT0GwSSZEhkQ6cTQ8xi-27" source="3oT0GwSSZEhkQ6cTQ8xi-33" target="3oT0GwSSZEhkQ6cTQ8xi-46">
           <mxGeometry relative="1" as="geometry" />
@@ -510,7 +510,7 @@
           <mxGeometry x="780" y="187.5" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-75" value="提高系统实时性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-27">
-          <mxGeometry x="620" y="510" width="21" height="130" as="geometry" />
+          <mxGeometry x="630" y="507.5" width="21" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3oT0GwSSZEhkQ6cTQ8xi-76" value="提高多目定位精度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3oT0GwSSZEhkQ6cTQ8xi-27">
           <mxGeometry x="730" y="850" width="20" height="126" as="geometry" />
