@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.3" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.4" pages="8">
   <diagram id="gpiuK_hMqhIvTzQ_fqu-" name="罗千雷">
     <mxGraphModel dx="1379" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页" id="YTN5t03ZE7oSlvA83yzv">
-    <mxGraphModel dx="1332" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,78 +232,78 @@
         <mxCell id="3tO1dww3Jabi91UzTI4P-89" value="多目关键帧的创建与移除" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" parent="3tO1dww3Jabi91UzTI4P-39" vertex="1">
           <mxGeometry x="300" y="385.875" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tt7iF0WzB7ZQueysAxgP-1" value="" style="swimlane;startSize=0;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=0;containerType=tree;fontSize=12;flipH=0;flipV=0;fontFamily=Times New Roman;align=center;dashed=1;strokeWidth=2;perimeterSpacing=0;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="Tt7iF0WzB7ZQueysAxgP-1" value="" style="swimlane;startSize=0;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=0;containerType=tree;fontSize=12;flipH=0;flipV=0;fontFamily=Times New Roman;align=center;dashed=1;strokeWidth=2;perimeterSpacing=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="-150" y="160" width="520" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="Tt7iF0WzB7ZQueysAxgP-2" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;鲁&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;棒&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;多&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;目&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;视&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;觉&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;S&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;L&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;A&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;M&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;算&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;法&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;研&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;究&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="Tt7iF0WzB7ZQueysAxgP-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;面&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;向&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;弱&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;纹&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;环&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;境&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;的&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;机&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;载&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;多&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;目&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;视&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;觉&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;S&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;L&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;A&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;M&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;技&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;术&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;研&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px; text-wrap-mode: nowrap;&quot;&gt;究&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="Tt7iF0WzB7ZQueysAxgP-1" vertex="1">
           <mxGeometry x="20" y="20" width="60" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="Tt7iF0WzB7ZQueysAxgP-3" value="弱纹理环境中SLAM算法初始化" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="Tt7iF0WzB7ZQueysAxgP-3" value="弱纹理环境中SLAM算法初始化" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" parent="Tt7iF0WzB7ZQueysAxgP-1" vertex="1">
           <mxGeometry x="130" y="117.15500000000003" width="160" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="Tt7iF0WzB7ZQueysAxgP-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-2" target="Tt7iF0WzB7ZQueysAxgP-3">
+        <mxCell id="Tt7iF0WzB7ZQueysAxgP-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-2" target="Tt7iF0WzB7ZQueysAxgP-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tt7iF0WzB7ZQueysAxgP-5" value="基于多目视觉SLAM的关键帧管理方法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="Tt7iF0WzB7ZQueysAxgP-5" value="基于多目视觉SLAM的关键帧管理方法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" parent="Tt7iF0WzB7ZQueysAxgP-1" vertex="1">
           <mxGeometry x="130" y="308.345" width="160" height="54.38" as="geometry" />
         </mxCell>
-        <mxCell id="Tt7iF0WzB7ZQueysAxgP-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-2" target="Tt7iF0WzB7ZQueysAxgP-5">
+        <mxCell id="Tt7iF0WzB7ZQueysAxgP-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-2" target="Tt7iF0WzB7ZQueysAxgP-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tt7iF0WzB7ZQueysAxgP-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-2" target="Tt7iF0WzB7ZQueysAxgP-8">
+        <mxCell id="Tt7iF0WzB7ZQueysAxgP-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-2" target="Tt7iF0WzB7ZQueysAxgP-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="1150" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tt7iF0WzB7ZQueysAxgP-8" value="基于几何约束的&lt;div&gt;多目视觉SLAM的&lt;/div&gt;&lt;div&gt;位姿联合优化算法&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="Tt7iF0WzB7ZQueysAxgP-8" value="基于几何约束的&lt;div&gt;多目视觉SLAM的&lt;/div&gt;&lt;div&gt;位姿联合优化算法&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" parent="Tt7iF0WzB7ZQueysAxgP-1" vertex="1">
           <mxGeometry x="130" y="504.225" width="160" height="68.62" as="geometry" />
         </mxCell>
-        <mxCell id="BH4aGGOIgUIbincmwaNK-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="BH4aGGOIgUIbincmwaNK-34" source="Tt7iF0WzB7ZQueysAxgP-3" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="BH4aGGOIgUIbincmwaNK-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-3" target="BH4aGGOIgUIbincmwaNK-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-70" y="505" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BH4aGGOIgUIbincmwaNK-34" value="基于深度学习的特征提取与匹配" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="BH4aGGOIgUIbincmwaNK-34" value="基于深度学习的特征提取与匹配" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" parent="Tt7iF0WzB7ZQueysAxgP-1" vertex="1">
           <mxGeometry x="340" y="69.15500000000003" width="160" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="8sPsG19d-YUDZ88xB0Ur-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="8sPsG19d-YUDZ88xB0Ur-2" source="Tt7iF0WzB7ZQueysAxgP-3" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="8sPsG19d-YUDZ88xB0Ur-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-3" target="8sPsG19d-YUDZ88xB0Ur-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="398" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8sPsG19d-YUDZ88xB0Ur-2" value="基于图像匹配的不确定性计算" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="8sPsG19d-YUDZ88xB0Ur-2" value="基于图像匹配的不确定性计算" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" parent="Tt7iF0WzB7ZQueysAxgP-1" vertex="1">
           <mxGeometry x="340" y="165.15500000000003" width="160" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="hJvn1ZFxp9uzpI1Sc2y3-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="hJvn1ZFxp9uzpI1Sc2y3-2" source="Tt7iF0WzB7ZQueysAxgP-5" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="hJvn1ZFxp9uzpI1Sc2y3-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-5" target="hJvn1ZFxp9uzpI1Sc2y3-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-70" y="505" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hJvn1ZFxp9uzpI1Sc2y3-2" value="多目系统关键帧的创建" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="hJvn1ZFxp9uzpI1Sc2y3-2" value="多目系统关键帧的创建" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" parent="Tt7iF0WzB7ZQueysAxgP-1" vertex="1">
           <mxGeometry x="340" y="261.15500000000003" width="160" height="54.38" as="geometry" />
         </mxCell>
-        <mxCell id="hJvn1ZFxp9uzpI1Sc2y3-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="hJvn1ZFxp9uzpI1Sc2y3-4" source="Tt7iF0WzB7ZQueysAxgP-5" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="hJvn1ZFxp9uzpI1Sc2y3-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-5" target="hJvn1ZFxp9uzpI1Sc2y3-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="523" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hJvn1ZFxp9uzpI1Sc2y3-4" value="多目系统图像对齐" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="hJvn1ZFxp9uzpI1Sc2y3-4" value="多目系统图像对齐" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" parent="Tt7iF0WzB7ZQueysAxgP-1" vertex="1">
           <mxGeometry x="340" y="355.535" width="160" height="54.38" as="geometry" />
         </mxCell>
-        <mxCell id="YNoh4-I4ivF0SR06Q2TU-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="YNoh4-I4ivF0SR06Q2TU-2" source="Tt7iF0WzB7ZQueysAxgP-8" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="YNoh4-I4ivF0SR06Q2TU-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-8" target="YNoh4-I4ivF0SR06Q2TU-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-70" y="505" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YNoh4-I4ivF0SR06Q2TU-2" value="基于几何约束的非线性位姿优化算法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="YNoh4-I4ivF0SR06Q2TU-2" value="基于几何约束的非线性位姿优化算法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" parent="Tt7iF0WzB7ZQueysAxgP-1" vertex="1">
           <mxGeometry x="340" y="449.915" width="160" height="68.62" as="geometry" />
         </mxCell>
-        <mxCell id="YNoh4-I4ivF0SR06Q2TU-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="YNoh4-I4ivF0SR06Q2TU-4" source="Tt7iF0WzB7ZQueysAxgP-8" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="YNoh4-I4ivF0SR06Q2TU-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="Tt7iF0WzB7ZQueysAxgP-1" source="Tt7iF0WzB7ZQueysAxgP-8" target="YNoh4-I4ivF0SR06Q2TU-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="671" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YNoh4-I4ivF0SR06Q2TU-4" value="多目视觉系统跟踪恢复方法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" vertex="1" parent="Tt7iF0WzB7ZQueysAxgP-1">
+        <mxCell id="YNoh4-I4ivF0SR06Q2TU-4" value="多目视觉系统跟踪恢复方法" style="whiteSpace=wrap;html=1;fontSize=15;arcSize=12;" parent="Tt7iF0WzB7ZQueysAxgP-1" vertex="1">
           <mxGeometry x="340" y="558.5350000000001" width="160" height="68.62" as="geometry" />
         </mxCell>
       </root>
